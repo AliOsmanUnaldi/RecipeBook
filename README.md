@@ -9,9 +9,10 @@ Deleting Recipe
 
 NUGET PACKAGES AND DEPENDENCIES 
 
-NETStandard.Library, 
-sqlite-net-pcl, 
-Syncfusion.Xamarin.Expander, 
-Xamarin.CommunityToolkit, 
-Xamarin.Essentials, 
+NETStandard.Library,  
+sqlite-net-pcl,  
+Syncfusion.Xamarin.Expander,  
+Xamarin.CommunityToolkit,  
+Xamarin.Essentials,  
 Xamarin.Forms
+
