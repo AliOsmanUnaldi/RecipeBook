@@ -34,8 +34,10 @@ namespace RecipeBook.Views
             
             if (result == 1)
             {
+                await DisplayAlert("Success", "Recipe has been deleted", "OK");
                 OnAppearing();
             }
+           
         }
 
         private async Task OpenAnimation(View view, uint length = 250)
