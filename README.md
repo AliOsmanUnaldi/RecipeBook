@@ -1,17 +1,17 @@
 # RecipeBook
-It's a Xamarin.Forms project with using Sqlite Database.
+It's a Xamarin.Forms project with using Sqlite Database. 
 
-MAJOR FEATURES
+MAJOR FEATURES 
 
-Register/Login
-Adding Recipe with owners user name
+Register/Login, 
+Adding Recipe with owners user name, 
 Deleting Recipe
 
-NUGET PACKAGES AND DEPENDENCIES
+NUGET PACKAGES AND DEPENDENCIES 
 
-NETStandard.Library
-sqlite-net-pcl
-Syncfusion.Xamarin.Expander
-Xamarin.CommunityToolkit
-Xamarin.Essentials
+NETStandard.Library, 
+sqlite-net-pcl, 
+Syncfusion.Xamarin.Expander, 
+Xamarin.CommunityToolkit, 
+Xamarin.Essentials, 
 Xamarin.Forms
